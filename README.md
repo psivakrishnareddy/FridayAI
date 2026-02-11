@@ -89,13 +89,14 @@ Welcome to the FridayAI Wiki.
 
 ---
 
-If you'd like, I can next:
-
-* Format this into a **premium GitHub README (badges, sections, visuals)**
-* Add **installation & usage sections**
-* Improve wording for **resume / project portfolio**
-* Make it **investor / product pitch style**
-
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![AI](https://img.shields.io/badge/AI-Deep%20Learning-purple)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Platform](https://img.shields.io/badge/Platform-Desktop-lightgrey)
+![UI](https://img.shields.io/badge/UI-Tkinter-orange)
+![Automation](https://img.shields.io/badge/Automation-Voice%20Controlled-blueviolet)
+![API](https://img.shields.io/badge/APIs-Gmail%20%7C%20News%20%7C%20Weather-informational)
 
 ## Video
 
