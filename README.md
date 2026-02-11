@@ -1,33 +1,103 @@
-# FridayAI
-This is a Artificial Digital Assistant Developed using Deep neural Networks
-Welcome to the FridayAI wiki!
+## FridayAI
 
-FEATURE HIGHLIGHTS
+**FridayAI** is an Artificial Digital Assistant developed using Deep Neural Networks.
 
-Mails: can send mails using SMTP protocol and read the user's top 5 unread emails using Google’s Gmail API.
+Welcome to the FridayAI Wiki.
 
-News: can gather new information such as top hot news using News API.
+---
 
-Calendar events: can retrieve user’s calendar Info such as added events on any date and the query can be formed in any way. The date information is extracted using some logical pattern matching and retrieves events on a particular day or month or week etc.
+## Feature Highlights
 
-Information gathering: can gather information on any input using Wikipedia data or google data and reads out the results and opens the google results and reads the top results if asked. There are options to search in Wikipedia and get results or make a Google search [10] using voice commands and open the search results in the browser.
+### 📧 Mail Management
 
-Application Automation: Ability to open user favorite applications and do some common automation tasks using voice based on the use of Pyautomations. It can also shut down the computer, log off, turn off itself. Ex: chrome can be opened, closed, open new tab, move between tabs, type text etc.play music, play, pause, stop, raise the volume, reduce volume, etc take screenShots on Command.
+* Sends emails using the SMTP protocol
+* Reads the user’s top 5 unread emails via Google Gmail API
 
-Web Automation: Basic Web automation can be implemented using selenium and integrated with the voice assistant. 29 Weather Info: Collect weather information of any place by extracting location names from user voice command and using Open weather API. Quick reminders and Notes: Sets Quick reminders and makes mini notes on command.
+### 📰 News Updates
 
-Face Authentication: Basic Face authentication using OpenCV image processing to activate the assistant.
+* Fetches latest and trending news using News API
 
-Wake Trigger: Wake Trigger function which enables the assistant to stay active and respond to use anytime using the wake call.
+### 📅 Calendar Events
 
-Home Automation: Pyfirmata module can be used to program an Arduino for implementing IoT based Home automation controlled using voice Commands
+* Retrieves user calendar information for any requested date
+* Supports flexible natural language date queries (day, week, month, etc.) using logical pattern matching
 
-System Monitor: monitors the systems and indicates users about battery charge levels and suggests the user’s when to charge.
+### 🌐 Information Gathering
 
-Bored user Feature: functions implemented to choose a random task and suggestion to the user.
+* Fetches information using Wikipedia or Google
+* Can read out search results and optionally open them in a browser
+* Supports voice-based Wikipedia and Google search
 
-General Conversations: The Deep Learning model is used to implement a conversational Ai feature.
+### 🖥 Application Automation
 
-**Tkinter UI ** Compact UI that shows the Actions of AI , Commands of User Response of Ai in Text and a Visualization Orb Animation.
+* Opens and controls user applications via voice using PyAutomation
+* Supports actions such as:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bzIWpOiLYDg?si=_mDZgh6OA1LnBjuN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  * Open/close applications
+  * Browser tab management and text input
+  * Play, pause, and control media volume
+  * Take screenshots
+  * Shutdown, log off, or turn off the assistant
+
+### 🌍 Web Automation
+
+* Performs basic web automation using Selenium integrated with voice commands
+
+### 🌦 Weather Information
+
+* Retrieves weather details for any location using OpenWeather API
+* Extracts location directly from voice commands
+
+### ⏰ Quick Reminders & Notes
+
+* Creates quick reminders
+* Stores short notes via voice command
+
+### 🔐 Face Authentication
+
+* Uses OpenCV-based facial recognition to activate the assistant
+
+### 🎙 Wake Trigger
+
+* Always-on wake word detection for instant activation
+
+### 🏠 Home Automation
+
+* Uses PyFirmata with Arduino for IoT-based home automation via voice control
+
+### 🔋 System Monitor
+
+* Monitors system status and battery level
+* Notifies user when charging is recommended
+
+### 🎲 Bored User Feature
+
+* Suggests random activities when the user is idle
+
+### 💬 General Conversations
+
+* Conversational AI powered by a Deep Learning model
+
+### 🖼 Tkinter UI
+
+* Compact graphical interface displaying:
+
+  * User commands
+  * Assistant responses
+  * AI actions
+  * Visual orb animation
+
+---
+
+If you'd like, I can next:
+
+* Format this into a **premium GitHub README (badges, sections, visuals)**
+* Add **installation & usage sections**
+* Improve wording for **resume / project portfolio**
+* Make it **investor / product pitch style**
+
+
+## Video
+
+[![Watch the video](https://img.youtube.com/vi/bzIWpOiLYDg/0.jpg)]
+(https://www.youtube.com/watch?v=bzIWpOiLYDg)
