@@ -4,6 +4,13 @@
 
 Welcome to the FridayAI Wiki.
 
+#### NOTE 2026: 
+This was my Bachelor's final year project and my passion project inspired by Jarvis. I built a Neural network that will understand my intent and processes the request
+with a beautiful live animation indicating thinking,talking and listening etc and a sleep mode for fun.
+
+This was build in 2020 which works kind of similar to how agents call tools in a loop. My agent keeps listening for instructions and based on the intent classification after 
+Speech to text -> NLP Tokenization -> DNN ->  intent -> Tool Calling. This is very similar to LLM agents but the most early version of it kind off. 
+
 ---
 
 ## Feature Highlights
@@ -19,8 +26,9 @@ Welcome to the FridayAI Wiki.
 
 ### 📅 Calendar Events
 
-* Retrieves user calendar information for any requested date
+* Retrieves user calendar information for any requested date with super flexible natural language like "What events do I know for next month or today or this week etc?"
 * Supports flexible natural language date queries (day, week, month, etc.) using logical pattern matching
+* create events for user using natural language on google calendar.
 
 ### 🌐 Information Gathering
 
@@ -34,14 +42,14 @@ Welcome to the FridayAI Wiki.
 * Supports actions such as:
 
   * Open/close applications
-  * Browser tab management and text input
+  * Browser tab management, like changing tabs and text input
   * Play, pause, and control media volume
-  * Take screenshots
+  * Take screenshots or make quick notes.
   * Shutdown, log off, or turn off the assistant
 
 ### 🌍 Web Automation
 
-* Performs basic web automation using Selenium integrated with voice commands
+* Performs basic web automation using Selenium integrated with voice commands like search something on youtube
 
 ### 🌦 Weather Information
 
@@ -61,7 +69,7 @@ Welcome to the FridayAI Wiki.
 
 * Always-on wake word detection for instant activation
 
-### 🏠 Home Automation
+### 🏠 Home Automation (Future enhancement)
 
 * Uses PyFirmata with Arduino for IoT-based home automation via voice control
 
@@ -72,7 +80,7 @@ Welcome to the FridayAI Wiki.
 
 ### 🎲 Bored User Feature
 
-* Suggests random activities when the user is idle
+* Suggests random activities when the user is idle ,tells a joke or plays a random game.
 
 ### 💬 General Conversations
 
