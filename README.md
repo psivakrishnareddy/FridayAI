@@ -100,5 +100,5 @@ Welcome to the FridayAI Wiki.
 
 ## Video
 
-[![Watch the video](https://img.youtube.com/vi/bzIWpOiLYDg/0.jpg)]
+[![Watch the video](https://img.youtube.com/vi/bzIWpOiLYDg/100.jpg)]
 (https://www.youtube.com/watch?v=bzIWpOiLYDg)
