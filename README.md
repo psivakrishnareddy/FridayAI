@@ -60,6 +60,7 @@ Speech to text -> NLP Tokenization -> DNN ->  intent -> Tool Calling. This is ve
 
 * Creates quick reminders
 * Stores short notes via voice command
+* Can randomly ask to type something if the cursor is at input.
 
 ### 🔐 Face Authentication
 
