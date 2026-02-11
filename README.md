@@ -29,3 +29,5 @@ Bored user Feature: functions implemented to choose a random task and suggestion
 General Conversations: The Deep Learning model is used to implement a conversational Ai feature.
 
 **Tkinter UI ** Compact UI that shows the Actions of AI , Commands of User Response of Ai in Text and a Visualization Orb Animation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bzIWpOiLYDg?si=_mDZgh6OA1LnBjuN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
